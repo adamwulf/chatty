@@ -18,13 +18,13 @@ FOUNDATION_EXPORT const unsigned char chattytvVersionString[];
 
 
 #import "ServerBrowserDelegate.h"
+#import "ServerBrowser.h"
 #import "Room.h"
 #import "RoomDelegate.h"
 #import "LocalRoom.h"
 #import "Server.h"
 #import "ServerDelegate.h"
 #import "Connection.h"
-#import "ServerBrowser.h"
 #import "UITextView+Utils.h"
 #import "AppConfig.h"
 
