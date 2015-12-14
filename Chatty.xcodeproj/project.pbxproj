@@ -28,6 +28,7 @@
 		C5999D151C1E6E0000FA2DD2 /* RoomDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8030F97459E0030638C /* RoomDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5999D161C1E6E0200FA2DD2 /* Room.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8020F9736E60030638C /* Room.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5999D191C1E703700FA2DD2 /* ChattyiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = C5999CAE1C1E635A00FA2DD2 /* ChattyiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5999D1A1C1E715C00FA2DD2 /* ChattyTV.h in Sources */ = {isa = PBXBuildFile; fileRef = C5A4E9BC1C1E505B00CF0D22 /* ChattyTV.h */; };
 		C5A4E9BD1C1E505B00CF0D22 /* ChattyTV.h in Headers */ = {isa = PBXBuildFile; fileRef = C5A4E9BC1C1E505B00CF0D22 /* ChattyTV.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5A4E9C31C1E506D00CF0D22 /* Room.m in Sources */ = {isa = PBXBuildFile; fileRef = D0510A510F9E00BB00B735FA /* Room.m */; };
 		C5A4E9C61C1E506D00CF0D22 /* RemoteRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D8050F99B6A90030638C /* RemoteRoom.m */; };
@@ -484,6 +485,7 @@
 				C5A4E9C31C1E506D00CF0D22 /* Room.m in Sources */,
 				C5A4E9C61C1E506D00CF0D22 /* RemoteRoom.m in Sources */,
 				C5A4E9C81C1E506D00CF0D22 /* LocalRoom.m in Sources */,
+				C5999D1A1C1E715C00FA2DD2 /* ChattyTV.h in Sources */,
 				C5A4E9CA1C1E506D00CF0D22 /* Server.m in Sources */,
 				C5A4E9CD1C1E506D00CF0D22 /* Connection.m in Sources */,
 				C5A4E9D01C1E506D00CF0D22 /* ServerBrowser.m in Sources */,
