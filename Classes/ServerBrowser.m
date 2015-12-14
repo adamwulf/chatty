@@ -77,7 +77,7 @@
 	}
 
 	netServiceBrowser.delegate = (id)self;
-	[netServiceBrowser searchForServicesOfType:@"_chatty._tcp." inDomain:@""];
+	[netServiceBrowser searchForServicesOfType:@"_chatty._tcp." inDomain:@"milestonemade.com"];
   
   return YES;
 }
