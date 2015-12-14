@@ -28,39 +28,6 @@
 		C5A4E9D31C1E506D00CF0D22 /* UITextView+Utils.h in Sources */ = {isa = PBXBuildFile; fileRef = D0510A6F0F9E14ED00B735FA /* UITextView+Utils.h */; };
 		C5A4E9D41C1E506D00CF0D22 /* AppConfig.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D9180F9CB4A60030638C /* AppConfig.h */; };
 		C5A4E9D51C1E506D00CF0D22 /* AppConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D9190F9CB4A60030638C /* AppConfig.m */; };
-		C5A4E9DE1C1E508700CF0D22 /* ChattyiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = C5A4E9DD1C1E508700CF0D22 /* ChattyiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4E9E31C1E509300CF0D22 /* Room.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D8020F9736E60030638C /* Room.h */; };
-		C5A4E9E41C1E509300CF0D22 /* Room.m in Sources */ = {isa = PBXBuildFile; fileRef = D0510A510F9E00BB00B735FA /* Room.m */; };
-		C5A4E9E51C1E509300CF0D22 /* RoomDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D8030F97459E0030638C /* RoomDelegate.h */; };
-		C5A4E9E61C1E509300CF0D22 /* RemoteRoom.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D8040F99B6A90030638C /* RemoteRoom.h */; };
-		C5A4E9E71C1E509300CF0D22 /* RemoteRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D8050F99B6A90030638C /* RemoteRoom.m */; };
-		C5A4E9E81C1E509300CF0D22 /* LocalRoom.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D8460F99BB250030638C /* LocalRoom.h */; };
-		C5A4E9E91C1E509300CF0D22 /* LocalRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D8470F99BB250030638C /* LocalRoom.m */; };
-		C5A4E9EA1C1E509300CF0D22 /* Server.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D7F10F94AA2A0030638C /* Server.h */; };
-		C5A4E9EB1C1E509300CF0D22 /* Server.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D7F20F94AA2A0030638C /* Server.m */; };
-		C5A4E9EC1C1E509300CF0D22 /* ServerDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D7F40F94AF8C0030638C /* ServerDelegate.h */; };
-		C5A4E9ED1C1E509300CF0D22 /* Connection.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D7F90F94B0BD0030638C /* Connection.h */; };
-		C5A4E9EE1C1E509300CF0D22 /* Connection.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D7FA0F94B0BD0030638C /* Connection.m */; };
-		C5A4E9EF1C1E509300CF0D22 /* ConnectionDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D7FF0F94B27E0030638C /* ConnectionDelegate.h */; };
-		C5A4E9F01C1E509300CF0D22 /* ServerBrowser.h in Sources */ = {isa = PBXBuildFile; fileRef = D043DA9B0F9CEA100030638C /* ServerBrowser.h */; };
-		C5A4E9F11C1E509300CF0D22 /* ServerBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = D043DA9C0F9CEA100030638C /* ServerBrowser.m */; };
-		C5A4E9F21C1E509300CF0D22 /* ServerBrowserDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = D039DD800F9E33C100C77B72 /* ServerBrowserDelegate.h */; };
-		C5A4E9F31C1E509300CF0D22 /* UITextView+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = D0510A6E0F9E14ED00B735FA /* UITextView+Utils.m */; };
-		C5A4E9F41C1E509300CF0D22 /* UITextView+Utils.h in Sources */ = {isa = PBXBuildFile; fileRef = D0510A6F0F9E14ED00B735FA /* UITextView+Utils.h */; };
-		C5A4E9F51C1E509300CF0D22 /* AppConfig.h in Sources */ = {isa = PBXBuildFile; fileRef = D043D9180F9CB4A60030638C /* AppConfig.h */; };
-		C5A4E9F61C1E509300CF0D22 /* AppConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D043D9190F9CB4A60030638C /* AppConfig.m */; };
-		C5A4E9FE1C1E565400CF0D22 /* Room.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8020F9736E60030638C /* Room.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4E9FF1C1E565400CF0D22 /* RoomDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8030F97459E0030638C /* RoomDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA001C1E565400CF0D22 /* RemoteRoom.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8040F99B6A90030638C /* RemoteRoom.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA011C1E565400CF0D22 /* LocalRoom.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8460F99BB250030638C /* LocalRoom.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA021C1E565400CF0D22 /* Server.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7F10F94AA2A0030638C /* Server.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA031C1E565400CF0D22 /* ServerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7F40F94AF8C0030638C /* ServerDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA041C1E565400CF0D22 /* Connection.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7F90F94B0BD0030638C /* Connection.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA051C1E565400CF0D22 /* ConnectionDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7FF0F94B27E0030638C /* ConnectionDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA061C1E565500CF0D22 /* ServerBrowser.h in Headers */ = {isa = PBXBuildFile; fileRef = D043DA9B0F9CEA100030638C /* ServerBrowser.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA071C1E565500CF0D22 /* ServerBrowserDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D039DD800F9E33C100C77B72 /* ServerBrowserDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA081C1E565500CF0D22 /* UITextView+Utils.m in Headers */ = {isa = PBXBuildFile; fileRef = D0510A6E0F9E14ED00B735FA /* UITextView+Utils.m */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5A4EA091C1E565500CF0D22 /* AppConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D9180F9CB4A60030638C /* AppConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5A4EA0A1C1E565800CF0D22 /* Room.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8020F9736E60030638C /* Room.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5A4EA0B1C1E565800CF0D22 /* RoomDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8030F97459E0030638C /* RoomDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5A4EA0C1C1E565800CF0D22 /* RemoteRoom.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8040F99B6A90030638C /* RemoteRoom.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -73,6 +40,19 @@
 		C5A4EA131C1E565800CF0D22 /* ServerBrowserDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D039DD800F9E33C100C77B72 /* ServerBrowserDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5A4EA151C1E565800CF0D22 /* AppConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D9180F9CB4A60030638C /* AppConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C5A4EA161C1E573E00CF0D22 /* UITextView+Utils.h in Headers */ = {isa = PBXBuildFile; fileRef = D0510A6F0F9E14ED00B735FA /* UITextView+Utils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA231C1E58EE00CF0D22 /* ChattyiOS.h in Headers */ = {isa = PBXBuildFile; fileRef = C5A4EA221C1E58EE00CF0D22 /* ChattyiOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA281C1E58FD00CF0D22 /* Room.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8020F9736E60030638C /* Room.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA291C1E58FD00CF0D22 /* RoomDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8030F97459E0030638C /* RoomDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA2A1C1E58FD00CF0D22 /* RemoteRoom.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8040F99B6A90030638C /* RemoteRoom.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA2B1C1E58FD00CF0D22 /* LocalRoom.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D8460F99BB250030638C /* LocalRoom.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA2C1C1E58FD00CF0D22 /* Server.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7F10F94AA2A0030638C /* Server.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA2D1C1E58FD00CF0D22 /* ServerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7F40F94AF8C0030638C /* ServerDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA2E1C1E58FD00CF0D22 /* Connection.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7F90F94B0BD0030638C /* Connection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA2F1C1E58FD00CF0D22 /* ConnectionDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D7FF0F94B27E0030638C /* ConnectionDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA301C1E58FD00CF0D22 /* ServerBrowser.h in Headers */ = {isa = PBXBuildFile; fileRef = D043DA9B0F9CEA100030638C /* ServerBrowser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA311C1E58FD00CF0D22 /* ServerBrowserDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D039DD800F9E33C100C77B72 /* ServerBrowserDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA321C1E58FD00CF0D22 /* UITextView+Utils.h in Headers */ = {isa = PBXBuildFile; fileRef = D0510A6F0F9E14ED00B735FA /* UITextView+Utils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5A4EA331C1E58FD00CF0D22 /* AppConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = D043D9180F9CB4A60030638C /* AppConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,9 +68,11 @@
 		C5A4E9BA1C1E505B00CF0D22 /* ChattyTV.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChattyTV.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5A4E9BC1C1E505B00CF0D22 /* ChattyTV.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChattyTV.h; sourceTree = "<group>"; };
 		C5A4E9BE1C1E505B00CF0D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C5A4E9DB1C1E508700CF0D22 /* ChattyiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChattyiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5A4E9DD1C1E508700CF0D22 /* ChattyiOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChattyiOS.h; sourceTree = "<group>"; };
 		C5A4E9DF1C1E508700CF0D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5A4EA201C1E58EE00CF0D22 /* ChattyiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChattyiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5A4EA221C1E58EE00CF0D22 /* ChattyiOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChattyiOS.h; sourceTree = "<group>"; };
+		C5A4EA241C1E58EE00CF0D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C72C3AFF174E63E200B506DF /* Chatty-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Chatty-Info.plist"; sourceTree = "<group>"; };
 		C72C3B01174E63E200B506DF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C72C3B03174E63E200B506DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -135,7 +117,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C5A4E9D71C1E508700CF0D22 /* Frameworks */ = {
+		C5A4EA1C1C1E58EE00CF0D22 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -160,7 +142,7 @@
 			isa = PBXGroup;
 			children = (
 				C5A4E9BA1C1E505B00CF0D22 /* ChattyTV.framework */,
-				C5A4E9DB1C1E508700CF0D22 /* ChattyiOS.framework */,
+				C5A4EA201C1E58EE00CF0D22 /* ChattyiOS.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -174,6 +156,7 @@
 				C72C3AFD174E63E200B506DF /* Chatty */,
 				C5A4E9BB1C1E505B00CF0D22 /* chattytv */,
 				C5A4E9DC1C1E508700CF0D22 /* chattyios */,
+				C5A4EA211C1E58EE00CF0D22 /* ChattyiOS */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 			);
@@ -225,6 +208,15 @@
 				C5A4E9DF1C1E508700CF0D22 /* Info.plist */,
 			);
 			path = chattyios;
+			sourceTree = "<group>";
+		};
+		C5A4EA211C1E58EE00CF0D22 /* ChattyiOS */ = {
+			isa = PBXGroup;
+			children = (
+				C5A4EA221C1E58EE00CF0D22 /* ChattyiOS.h */,
+				C5A4EA241C1E58EE00CF0D22 /* Info.plist */,
+			);
+			path = ChattyiOS;
 			sourceTree = "<group>";
 		};
 		C72C3AFD174E63E200B506DF /* Chatty */ = {
@@ -282,8 +274,8 @@
 		D0510A710F9E14F200B735FA /* Misc */ = {
 			isa = PBXGroup;
 			children = (
-				D0510A6E0F9E14ED00B735FA /* UITextView+Utils.m */,
 				D0510A6F0F9E14ED00B735FA /* UITextView+Utils.h */,
+				D0510A6E0F9E14ED00B735FA /* UITextView+Utils.m */,
 				D043D9180F9CB4A60030638C /* AppConfig.h */,
 				D043D9190F9CB4A60030638C /* AppConfig.m */,
 			);
@@ -328,23 +320,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C5A4E9D81C1E508700CF0D22 /* Headers */ = {
+		C5A4EA1D1C1E58EE00CF0D22 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5A4E9DE1C1E508700CF0D22 /* ChattyiOS.h in Headers */,
-				C5A4E9FE1C1E565400CF0D22 /* Room.h in Headers */,
-				C5A4E9FF1C1E565400CF0D22 /* RoomDelegate.h in Headers */,
-				C5A4EA001C1E565400CF0D22 /* RemoteRoom.h in Headers */,
-				C5A4EA011C1E565400CF0D22 /* LocalRoom.h in Headers */,
-				C5A4EA021C1E565400CF0D22 /* Server.h in Headers */,
-				C5A4EA031C1E565400CF0D22 /* ServerDelegate.h in Headers */,
-				C5A4EA041C1E565400CF0D22 /* Connection.h in Headers */,
-				C5A4EA051C1E565400CF0D22 /* ConnectionDelegate.h in Headers */,
-				C5A4EA061C1E565500CF0D22 /* ServerBrowser.h in Headers */,
-				C5A4EA071C1E565500CF0D22 /* ServerBrowserDelegate.h in Headers */,
-				C5A4EA081C1E565500CF0D22 /* UITextView+Utils.m in Headers */,
-				C5A4EA091C1E565500CF0D22 /* AppConfig.h in Headers */,
+				C5A4EA231C1E58EE00CF0D22 /* ChattyiOS.h in Headers */,
+				C5A4EA281C1E58FD00CF0D22 /* Room.h in Headers */,
+				C5A4EA291C1E58FD00CF0D22 /* RoomDelegate.h in Headers */,
+				C5A4EA2A1C1E58FD00CF0D22 /* RemoteRoom.h in Headers */,
+				C5A4EA2B1C1E58FD00CF0D22 /* LocalRoom.h in Headers */,
+				C5A4EA2C1C1E58FD00CF0D22 /* Server.h in Headers */,
+				C5A4EA2D1C1E58FD00CF0D22 /* ServerDelegate.h in Headers */,
+				C5A4EA2E1C1E58FD00CF0D22 /* Connection.h in Headers */,
+				C5A4EA2F1C1E58FD00CF0D22 /* ConnectionDelegate.h in Headers */,
+				C5A4EA301C1E58FD00CF0D22 /* ServerBrowser.h in Headers */,
+				C5A4EA311C1E58FD00CF0D22 /* ServerBrowserDelegate.h in Headers */,
+				C5A4EA321C1E58FD00CF0D22 /* UITextView+Utils.h in Headers */,
+				C5A4EA331C1E58FD00CF0D22 /* AppConfig.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -369,22 +361,22 @@
 			productReference = C5A4E9BA1C1E505B00CF0D22 /* ChattyTV.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		C5A4E9DA1C1E508700CF0D22 /* ChattyiOS */ = {
+		C5A4EA1F1C1E58EE00CF0D22 /* ChattyiOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C5A4E9E01C1E508700CF0D22 /* Build configuration list for PBXNativeTarget "ChattyiOS" */;
+			buildConfigurationList = C5A4EA251C1E58EE00CF0D22 /* Build configuration list for PBXNativeTarget "ChattyiOS" */;
 			buildPhases = (
-				C5A4E9D61C1E508700CF0D22 /* Sources */,
-				C5A4E9D71C1E508700CF0D22 /* Frameworks */,
-				C5A4E9D81C1E508700CF0D22 /* Headers */,
-				C5A4E9D91C1E508700CF0D22 /* Resources */,
+				C5A4EA1B1C1E58EE00CF0D22 /* Sources */,
+				C5A4EA1C1C1E58EE00CF0D22 /* Frameworks */,
+				C5A4EA1D1C1E58EE00CF0D22 /* Headers */,
+				C5A4EA1E1C1E58EE00CF0D22 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = ChattyiOS;
-			productName = chattyios;
-			productReference = C5A4E9DB1C1E508700CF0D22 /* ChattyiOS.framework */;
+			productName = ChattyiOS;
+			productReference = C5A4EA201C1E58EE00CF0D22 /* ChattyiOS.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -398,7 +390,7 @@
 					C5A4E9B91C1E505B00CF0D22 = {
 						CreatedOnToolsVersion = 7.2;
 					};
-					C5A4E9DA1C1E508700CF0D22 = {
+					C5A4EA1F1C1E58EE00CF0D22 = {
 						CreatedOnToolsVersion = 7.2;
 					};
 				};
@@ -415,7 +407,7 @@
 			projectRoot = "";
 			targets = (
 				C5A4E9B91C1E505B00CF0D22 /* ChattyTV */,
-				C5A4E9DA1C1E508700CF0D22 /* ChattyiOS */,
+				C5A4EA1F1C1E58EE00CF0D22 /* ChattyiOS */,
 			);
 		};
 /* End PBXProject section */
@@ -428,7 +420,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C5A4E9D91C1E508700CF0D22 /* Resources */ = {
+		C5A4EA1E1C1E58EE00CF0D22 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -465,30 +457,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C5A4E9D61C1E508700CF0D22 /* Sources */ = {
+		C5A4EA1B1C1E58EE00CF0D22 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5A4E9E31C1E509300CF0D22 /* Room.h in Sources */,
-				C5A4E9E41C1E509300CF0D22 /* Room.m in Sources */,
-				C5A4E9E51C1E509300CF0D22 /* RoomDelegate.h in Sources */,
-				C5A4E9E61C1E509300CF0D22 /* RemoteRoom.h in Sources */,
-				C5A4E9E71C1E509300CF0D22 /* RemoteRoom.m in Sources */,
-				C5A4E9E81C1E509300CF0D22 /* LocalRoom.h in Sources */,
-				C5A4E9E91C1E509300CF0D22 /* LocalRoom.m in Sources */,
-				C5A4E9EA1C1E509300CF0D22 /* Server.h in Sources */,
-				C5A4E9EB1C1E509300CF0D22 /* Server.m in Sources */,
-				C5A4E9EC1C1E509300CF0D22 /* ServerDelegate.h in Sources */,
-				C5A4E9ED1C1E509300CF0D22 /* Connection.h in Sources */,
-				C5A4E9EE1C1E509300CF0D22 /* Connection.m in Sources */,
-				C5A4E9EF1C1E509300CF0D22 /* ConnectionDelegate.h in Sources */,
-				C5A4E9F01C1E509300CF0D22 /* ServerBrowser.h in Sources */,
-				C5A4E9F11C1E509300CF0D22 /* ServerBrowser.m in Sources */,
-				C5A4E9F21C1E509300CF0D22 /* ServerBrowserDelegate.h in Sources */,
-				C5A4E9F31C1E509300CF0D22 /* UITextView+Utils.m in Sources */,
-				C5A4E9F41C1E509300CF0D22 /* UITextView+Utils.h in Sources */,
-				C5A4E9F51C1E509300CF0D22 /* AppConfig.h in Sources */,
-				C5A4E9F61C1E509300CF0D22 /* AppConfig.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -627,7 +599,7 @@
 			};
 			name = Release;
 		};
-		C5A4E9E11C1E508700CF0D22 /* Debug */ = {
+		C5A4EA261C1E58EE00CF0D22 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -667,13 +639,12 @@
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
-				INFOPLIST_FILE = chattyios/Info.plist;
+				INFOPLIST_FILE = ChattyiOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.milestonemade.chattyios;
+				PRODUCT_BUNDLE_IDENTIFIER = com.milestonemade.ChattyiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -683,7 +654,7 @@
 			};
 			name = Debug;
 		};
-		C5A4E9E21C1E508700CF0D22 /* Release */ = {
+		C5A4EA271C1E58EE00CF0D22 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -717,12 +688,12 @@
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
-				INFOPLIST_FILE = chattyios/Info.plist;
+				INFOPLIST_FILE = ChattyiOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.milestonemade.chattyios;
+				PRODUCT_BUNDLE_IDENTIFIER = com.milestonemade.ChattyiOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -754,14 +725,13 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C5A4E9E01C1E508700CF0D22 /* Build configuration list for PBXNativeTarget "ChattyiOS" */ = {
+		C5A4EA251C1E58EE00CF0D22 /* Build configuration list for PBXNativeTarget "ChattyiOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C5A4E9E11C1E508700CF0D22 /* Debug */,
-				C5A4E9E21C1E508700CF0D22 /* Release */,
+				C5A4EA261C1E58EE00CF0D22 /* Debug */,
+				C5A4EA271C1E58EE00CF0D22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
